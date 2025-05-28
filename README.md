@@ -12,7 +12,7 @@ Este repositorio contiene el módulo `toolbox_ML.py`, desarrollado por el equipo
 | `tipifica_variables`           | Clasifica automáticamente las variables como binaria, categórica, numérica discreta o continua |
 | `get_features_num_regression`  | Selecciona variables numéricas correlacionadas con el target según un umbral y p-value |
 | `plot_features_num_regression` | Visualiza variables numéricas correlacionadas con el target usando pairplots |
-| `get_features_cat_regression`  | Selecciona variables categóricas relacionadas con el target mediante ANOVA, Kruskal o Mann-Whitney |
+| `get_features_cat_regression`  | Selecciona variables categóricas relacionadas con el target mediante ANOVA o Mann-Whitney |
 | `plot_features_cat_regression`| Visualiza la relación entre variables categóricas y el target mediante histogramas agrupados |
 
 ---
