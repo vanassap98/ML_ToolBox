@@ -4,16 +4,6 @@ Este repositorio contiene el módulo `toolbox_ML.py`, desarrollado por el equipo
 
 ---
 
-## 📦 Estructura del repositorio
-
-ML_ToolBox/
-├── toolbox_ML.py # Módulo con las funciones definidas
-├── test_toolbox.ipynb # Notebook con ejemplo de uso y validación
-├── data/ # (opcional) Datasets de prueba
-└── README.md # Este archivo
-
----
-
 ## 🚀 Funciones implementadas
 
 | Función                         | Descripción |
