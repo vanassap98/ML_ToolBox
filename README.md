@@ -4,7 +4,7 @@ Este repositorio contiene el módulo `toolbox_ML.py`, desarrollado por el equipo
 
 ---
 
-## 🚀 Funciones implementadas
+##  Funciones implementadas
 
 | Función                         | Descripción |
 |--------------------------------|-------------|
@@ -17,7 +17,7 @@ Este repositorio contiene el módulo `toolbox_ML.py`, desarrollado por el equipo
 
 ---
 
-## 🧪 Uso del módulo
+##  Uso del módulo
 
 Todas las funciones están definidas en `toolbox_ML.py`. Puedes importarlas en tu entorno de trabajo o usarlas directamente en un notebook:
 
@@ -29,10 +29,11 @@ Consulta el notebook test_toolbox.ipynb para ver ejemplos prácticos.
 
 ---
 
-👥 Equipo
+## 👥 Equipo
+
 Este proyecto ha sido desarrollado por el equipo de estudiantes del bootcamp de Data Science en The Bridge:
 
-Antonio (AntGV)
-Ceci (vanassap98)
-Estefany (EstefanyAmesty)
-Hugo (chucklesmon)
+- Antonio (AntGV)
+- Ceci (vanassap98)
+- Estefany (EstefanyAmesty)
+- Hugo (chucklesmon)
