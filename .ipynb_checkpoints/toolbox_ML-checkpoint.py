@@ -397,7 +397,6 @@ def plot_features_cat_regresion(df, target_col, pvalue = 0.05, columns = [], wit
             features = df.columns.tolist()
            
             # Extrae las variables numéricas de alta cardinalidad.
-            lista_categoricas_relacionadas = []
             feat_num = []
             for col in features:
                 cardinalidad = (len(df[col].unique())/len(df))*100
